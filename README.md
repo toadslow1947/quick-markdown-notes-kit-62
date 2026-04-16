@@ -1,2 +1,9 @@
-# quick-markdown-notes-kit-62
-A simple markdown notes project
+# Markdown Notes
+
+A simple markdown notes project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
